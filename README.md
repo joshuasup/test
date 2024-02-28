@@ -41,7 +41,7 @@ b. menyimpan data unik dan tidak dapat diulang
 20.	Apa peran dari foreign key dalam sebuah relasi antar table?
 c. menyediakan referensi ke primary key di table lain
 21.	Apa singkatan dari “REST” dalam “REST API”?
-a.	Request Element for Secure Transactions
+a.	Representational State Transfer
 22.	HTTP method yang digunakan untuk mendapatkan data dari sumber daya pada REST API adalah:
 a.	Get
 23.	Apa yang dimaksudn dengan “resource endpoint” pada REST API?
