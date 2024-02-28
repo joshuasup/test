@@ -2,7 +2,7 @@
 Jawaban
 
 1.	tag yang digunakan untuk membuat paragraph pada HTML adlah:
-1.	<p>
+a.	<p>
 2.	Css selector yang digunakan untuk memililh semua elemen pada halaman HTML adalah:
 a.	*
 3.	Berikut adalah struktur dasat sebuah dokumen HTML, kecuali:
